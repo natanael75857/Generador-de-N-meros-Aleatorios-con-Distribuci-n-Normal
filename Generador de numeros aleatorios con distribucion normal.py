@@ -29,3 +29,5 @@ for i in range(n):
     X = NumNormal*sigma + media
 
     print("Valor ", i+1, ":", X)
+
+    input("\nPresiona Enter para finalizar el programa...")
